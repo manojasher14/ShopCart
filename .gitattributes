@@ -1,0 +1,4 @@
+*.java linguist-language=Java
+*.xml linguist-vendored
+*.html linguist-vendored
+*.py linguist-vendored
